@@ -1,4 +1,7 @@
 # Automatic-Helmet-Detection
+
+**![image](https://user-images.githubusercontent.com/82361158/115508900-73b7fb80-a29b-11eb-991d-9761ab4823e5.png)
+**
 A complete parking and safety solution for the students at Ahmedabad University ensured by Helmet detection system which directs the opening of entrance gate at the university.  It also has a Slot based hassle free parking system and Detection of number plate of vehicles to keep track of allocated slot on webpage.
 
 # Project Overview
